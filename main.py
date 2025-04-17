@@ -17,6 +17,7 @@ from PyQt5.QtCore import QTimer, Qt, QSize
 from PyQt5.QtGui import QIcon, QColor, QPalette, QFont, QPixmap
 from PyQt5.QtWidgets import QApplication, QMainWindow, QSplitter, QComboBox, QAction, QMenu, QToolBar, QStatusBar, QFileDialog, QProgressBar, QLabel, QTextEdit, QListWidget, QVBoxLayout, QHBoxLayout, QLineEdit, QWidget, QTabWidget, QPushButton
 from pdf_handler import PDFProcessor
+from PyQt5.QtWidgets import QMessageBox
 
 # Configure logging
 logging.basicConfig(
@@ -167,6 +168,58 @@ class NoteTaker(QtCore.QObject):
         self.config["language"] = language
         save_config(self.config)
         logging.info(f"Recognition language set to {language}")
+
+    def process_pdf(self, pdf_path):
+        """Process a PDF file by extracting text, generating summary and questions."""
+        try:
+            text = PDFProcessor.extract_text_from_pdf(pdf_path)
+            summary = PDFProcessor.summarize_text(text)
+            summary_path = PDFProcessor.save_summary(pdf_path, summary)
+            questions = PDFProcessor.generate_study_questions(summary)
+            questions_path = PDFProcessor.save_questions(pdf_path, questions)
+            
+            msg = QMessageBox()
+            msg.setIcon(QMessageBox.Information)
+            msg.setText("PDF Processing Complete")
+            msg.setInformativeText(f"Summary saved to: {summary_path}\nQuestions saved to: {questions_path}")
+            msg.setWindowTitle("PDF Processing")
+            msg.exec_()
+            
+            logging.info(f"Processed PDF: {pdf_path}")
+            return summary, questions
+        except Exception as e:
+            logging.error(f"Error processing PDF: {e}")
+            msg = QMessageBox()
+            msg.setIcon(QMessageBox.Critical)
+            msg.setText("PDF Processing Error")
+            msg.setInformativeText(str(e))
+            msg.setWindowTitle("Error")
+            msg.exec_()
+            return None, None
+
+    def ask_pdf_ai(self, pdf_path, question):
+        """Ask an AI question about a specific PDF."""
+        try:
+            answer = PDFProcessor.ask_ai_about_pdf(pdf_path, question)
+            
+            msg = QMessageBox()
+            msg.setIcon(QMessageBox.Information)
+            msg.setText("AI PDF Assistant")
+            msg.setInformativeText(answer)
+            msg.setWindowTitle("PDF Question")
+            msg.exec_()
+            
+            logging.info(f"Answered PDF question: {question}")
+            return answer
+        except Exception as e:
+            logging.error(f"Error asking PDF AI: {e}")
+            msg = QMessageBox()
+            msg.setIcon(QMessageBox.Critical)
+            msg.setText("PDF AI Error")
+            msg.setInformativeText(str(e))
+            msg.setWindowTitle("Error")
+            msg.exec_()
+            return None
 
     def start_listening(self):
         """Start the voice recognition process"""
