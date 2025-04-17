@@ -1,0 +1,15 @@
+PyQt5
+sounddevice
+numpy
+SpeechRecognition
+pydub
+nltk
+textblob
+sumy
+soundfile
+cffi
+pyaudio
+PyPDF2
+openai
+python-dotenv
+markdown

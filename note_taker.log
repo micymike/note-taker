@@ -1,0 +1,161 @@
+2025-04-17 18:24:26,858 - INFO - Using default microphone
+2025-04-17 18:24:29,000 - INFO - Adjusted for ambient noise with enhanced settings
+2025-04-17 18:24:31,519 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:24:33,597 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:24:36,105 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:24:38,557 - INFO - Transcribed text: consecutive vertices
+2025-04-17 18:24:40,755 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:24:43,369 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:24:46,536 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:24:48,314 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:24:50,332 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:24:52,456 - INFO - Transcribed text: each Edge exactly
+2025-04-17 18:24:52,595 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:24:55,144 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:25:07,742 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:25:13,505 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:25:19,481 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:25:21,471 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:25:23,242 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:25:25,105 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:25:26,542 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:25:29,465 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:25:32,741 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:25:35,490 - INFO - Transcribed text: any Vertex to any other Vertex by following some path of edges
+2025-04-17 18:25:35,507 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:25:39,176 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:25:41,776 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:25:43,406 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:25:45,049 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:25:46,596 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:25:48,058 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:25:50,475 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:25:52,884 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:25:54,570 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:25:55,933 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:25:58,673 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:26:03,977 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:26:07,083 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:26:12,468 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:26:15,510 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:26:17,740 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:26:20,850 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:26:23,937 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:26:26,184 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:26:28,528 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:26:29,730 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:26:32,073 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:26:33,672 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:26:39,373 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:26:41,232 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:26:43,935 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:26:45,378 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:26:55,519 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:26:58,631 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:27:02,087 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:27:04,732 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:27:11,306 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:27:14,206 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:27:17,748 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:27:19,439 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:27:21,664 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:27:22,537 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:27:24,290 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:27:25,600 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:27:26,961 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:27:27,331 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:27:28,799 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:27:30,133 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:27:31,688 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:27:33,540 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:27:35,299 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:27:36,510 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:27:39,361 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:27:41,126 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:27:43,477 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:27:44,615 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:27:45,934 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:27:46,972 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:27:48,057 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:27:49,431 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:27:57,198 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:27:58,860 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:28:01,866 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:28:03,341 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:28:07,050 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:28:09,050 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:28:17,547 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:28:20,914 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:28:24,180 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:28:25,756 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:28:28,064 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:28:29,766 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:28:31,470 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:28:32,648 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:28:34,145 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:28:35,724 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:28:37,009 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:28:38,222 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:28:39,377 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:28:41,068 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:28:44,514 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:28:45,941 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:28:50,805 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:28:51,827 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:28:53,709 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:28:55,186 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 18:28:57,747 - DEBUG - Audio chunk received, attempting transcription
+2025-04-17 18:28:58,954 - WARNING - Could not understand audio - trying again with different settings
+2025-04-17 19:31:07,985 - INFO - Available microphones:
+2025-04-17 19:31:07,987 - INFO - Microphone 0: sof-hda-dsp: - (hw:0,0)
+2025-04-17 19:31:07,988 - INFO - Microphone 1: sof-hda-dsp: - (hw:0,3)
+2025-04-17 19:31:07,988 - INFO - Microphone 2: sof-hda-dsp: - (hw:0,4)
+2025-04-17 19:31:07,988 - INFO - Microphone 3: sof-hda-dsp: - (hw:0,5)
+2025-04-17 19:31:07,988 - INFO - Microphone 4: sof-hda-dsp: - (hw:0,6)
+2025-04-17 19:31:07,988 - INFO - Microphone 5: sof-hda-dsp: - (hw:0,7)
+2025-04-17 19:31:07,988 - INFO - Microphone 6: sof-hda-dsp: - (hw:0,31)
+2025-04-17 19:31:07,988 - INFO - Microphone 7: sysdefault
+2025-04-17 19:31:07,988 - INFO - Microphone 8: lavrate
+2025-04-17 19:31:07,988 - INFO - Microphone 9: samplerate
+2025-04-17 19:31:07,988 - INFO - Microphone 10: speexrate
+2025-04-17 19:31:07,988 - INFO - Microphone 11: pipewire
+2025-04-17 19:31:07,988 - INFO - Microphone 12: pulse
+2025-04-17 19:31:07,988 - INFO - Microphone 13: speex
+2025-04-17 19:31:07,988 - INFO - Microphone 14: upmix
+2025-04-17 19:31:07,988 - INFO - Microphone 15: vdownmix
+2025-04-17 19:31:07,988 - INFO - Microphone 16: dmix
+2025-04-17 19:31:07,988 - INFO - Microphone 17: default
+2025-04-17 19:31:34,645 - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'system', 'content': 'You are a helpful assistant that summarizes text concisely.'}, {'role': 'user', 'content': 'Provide a concise summary of the following text, focusing on key points: Exam in Discrete Mathematics\nFirst Year at The TEK-NAT Faculty\nJune 11th, 2014, 9.00–13.00\nANSWERS\nPart I (”regular exercises”)\nExercise 1 (6%).\nFind the expansion of (2x\x00y)4using The Binomial Theorem.\nAnswer: 16x4\x0032x3y+24x2y2\x008xy3+y4\nExercise 2 (8%).\nFind witnesses proving that f(x) =2x3+x2+5 is O(x3).\nExercise 3 (12%).\n1. Use the Euclidean algorithm to ﬁnd the greatest common divisor of 46 and\n21.\nAnswer: 1\n2. Find integers sandtsatisfying that gcd (46, 21 ) =s\x0146+t\x0121.\nAnswer: s =\x005,t=11\n3. Determine all integers xsuch that\nx\x112(mod 46 )and x\x111(mod 21 ).\nAnswer: x\x11232 (mod 966 )\nPage 1 of 7\nExercise 4 (9%).\nProve by induction that\nn\nå\ni=1(4i+1) =2n2+3n,\nfor every positive integer n.\nExercise 5 (6%).\n1. Construct a truth table for the compound proposition (p^:q)!(r_q).\nAnswer:\np q r (p^:q)!(r_q)\nT T T T\nT T F T\nT F T T\nT F F F\nF T T T\nF T F T\nF F T T\nF F F T\n2. Is the compound proposition in question 1 a tautology?\nAnswer: No.\na\nb c d e\nf g h\ni j km\nn\nFigure 1: A graph Gconsidered in Exercise 6.\nPage 2 of 7\nExercise 6 (10%).\nA graph Gwith 13 edges is shown in Figure 1. The edges of Ghave weights\ngiven by the following table\nEdge abcdefghijkm n\nWeight 1133645624272\n1. Use Prim’s algorithm to ﬁnd a minimum spanning tree SinG. Write the\nedges of Sin the order in which they are added to Sby Prim’s algorithm.\n(If there is more than one possible solution then write only one of them.)\nOne possible solution: a, b, i, n, k, c, e\n2. Use Kruskal’s algorithm to ﬁnd a minimum spanning tree TinG. Write\nthe edges of Tin the order in which they are added to Tby Kruskal’s\nalgorithm. (If there is more than one possible solution then write only one\nof them.)\nOne possible solution: a, b, i, k, n, c, e\nExercise 7 (9%).\nLetA=fa,b,c,dgand let R=f(a,b),(b,c),(c,d),(d,b)gbe a relation on A.\n1. Draw the directed graph representing R.\nAnswer:\nb\ncda\n2. Determine the transitive closure R\x03ofR.\nAnswer:\nR\x03=f(a,b),(a,c),(a,d),(b,b),(b,c),(b,d),(c,b),(c,c),(c,d),(d,b),(d,c),(d,d)g\nPage 3 of 7\n3. Determine a matrix MR\x03representing R\x03.\nAnswer:2\n6640 1 1 1\n0 1 1 1\n0 1 1 1\n0 1 1 13\n775\nExercise 8 (10%).\nA set Sis deﬁned recursively by\nBasis step: 02S\nRecursive step: ifa2Sthen a+32Sanda+52S.\n1. Determine the set S\\fa2Zj0<a<12g.\nAnswer:f3, 5, 6, 8, 9, 10, 11g\n2. Prove that every integer a\x158 is contained in S.\nPage 4 of 7\nPart II (”multiple choice” exercises)\nExercise 9 (10%).\nLetf(x) = ( x2+5x+3)(x+2 log x), forx>0. Answer the following 5 true/false\nexercises\n1.f(x)isO(x4).\n\x02True \x03False\n2.f(x)isO(x3).\n\x02True \x03False\n3.f(x)isO(x2).\n\x03True \x02False\n4.f(x)isO(x3logx).\n\x02True \x03False\n5.f(x)isO(x2logx).\n\x03True \x02False\nPage 5 of 7\nExercise 10 (6%).\nLetA=f1, 3, 5gandB=f3, 4, 5gbe sets.\n1. What is the cardinality of the power set P(A[B)\n\x034 \x038 \x0216 \x0332 \x0364\n2. Which of the following are elements of A\x02B?\n\x03f1, 3g \x02(1, 3) \x03(4, 5) \x02(5, 5)\nExercise 11 (8%).\nConsider the following algorithm:\nProcedure sum( n: positive integer)\ns:=0\nfori:=1ton\n.forj:=1toi\n. . s:=s+j\nreturn s\n1. Suppose that procedure sum is started with input n=4. Then what num-\nber is returned by the algorithm?\n\x0310 \x0220 \x0340 \x0345\n2. The worst-case time complexity of procedure sum is:\n\x03O(n) \x03O(nlogn) \x03O(n3/2) \x02O(n2)\nPage 6 of 7\nExercise 12 (6%).\nLet\nMR=2\n666641 0 0 1 1\n0 1 0 0 0\n1 0 1 1 1\n1 0 1 1 0\n0 0 1 0 13\n77775\nbe a matrix representing a relation Ron a set A. Answer the following 3 true/false\nexercises\n1.Ris reﬂexive.\n\x02True \x03False\n2.Ris symmetric.\n\x03True \x02False\n3.Ris antisymmetric.\n\x03True \x02False\nPage 7 of 7\n'}], 'model': 'gpt-3.5-turbo', 'max_tokens': 1000}}
+2025-04-17 19:31:34,651 - DEBUG - Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2025-04-17 19:31:34,652 - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+2025-04-17 19:31:34,779 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x752298e52780>
+2025-04-17 19:31:34,779 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x752298ec6a50> server_hostname='api.openai.com' timeout=5.0
+2025-04-17 19:31:34,869 - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x752299057860>
+2025-04-17 19:31:34,869 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-04-17 19:31:34,870 - DEBUG - send_request_headers.complete
+2025-04-17 19:31:34,870 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-04-17 19:31:34,870 - DEBUG - send_request_body.complete
+2025-04-17 19:31:34,870 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-04-17 19:31:36,674 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 17 Apr 2025 16:31:36 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'tison-aocxyj'), (b'openai-processing-ms', b'857'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'10000000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'9999088'), (b'x-ratelimit-reset-requests', b'6ms'), (b'x-ratelimit-reset-tokens', b'5ms'), (b'x-request-id', b'req_1b5ef95bf1025acf927ad0ca6fc7ad1e'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=0s1mmSVZiZM68kceSCBOR8HpXWsxhC.dDdxyLstnK00-1744907496-1.0.1.1-XbYM2630Y.oZ5mm9aCLuT8gOg8Hw8VMVM6VW9v4uO9m.qHWYWRGSMBwsFTBJwsW02BybmRA26PkwqFe3z5B0wykH5Ee9eqE8hblwve4TCU4; path=/; expires=Thu, 17-Apr-25 17:01:36 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=ptBmHA3i8eui4QBYdyRZU6Jhg_BIJbAJJVNiYvm.x6w-1744907496812-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'931d50448e75c6ca-JNB'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-04-17 19:31:36,675 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-17 19:31:36,675 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-04-17 19:31:36,676 - DEBUG - receive_response_body.complete
+2025-04-17 19:31:36,676 - DEBUG - response_closed.started
+2025-04-17 19:31:36,676 - DEBUG - response_closed.complete
+2025-04-17 19:31:36,676 - DEBUG - HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers([('date', 'Thu, 17 Apr 2025 16:31:36 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('access-control-expose-headers', 'X-Request-ID'), ('openai-organization', 'tison-aocxyj'), ('openai-processing-ms', '857'), ('openai-version', '2020-10-01'), ('x-ratelimit-limit-requests', '10000'), ('x-ratelimit-limit-tokens', '10000000'), ('x-ratelimit-remaining-requests', '9999'), ('x-ratelimit-remaining-tokens', '9999088'), ('x-ratelimit-reset-requests', '6ms'), ('x-ratelimit-reset-tokens', '5ms'), ('x-request-id', 'req_1b5ef95bf1025acf927ad0ca6fc7ad1e'), ('strict-transport-security', 'max-age=31536000; includeSubDomains; preload'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=0s1mmSVZiZM68kceSCBOR8HpXWsxhC.dDdxyLstnK00-1744907496-1.0.1.1-XbYM2630Y.oZ5mm9aCLuT8gOg8Hw8VMVM6VW9v4uO9m.qHWYWRGSMBwsFTBJwsW02BybmRA26PkwqFe3z5B0wykH5Ee9eqE8hblwve4TCU4; path=/; expires=Thu, 17-Apr-25 17:01:36 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('x-content-type-options', 'nosniff'), ('set-cookie', '_cfuvid=ptBmHA3i8eui4QBYdyRZU6Jhg_BIJbAJJVNiYvm.x6w-1744907496812-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '931d50448e75c6ca-JNB'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+2025-04-17 19:31:36,677 - DEBUG - request_id: req_1b5ef95bf1025acf927ad0ca6fc7ad1e
+2025-04-17 19:31:36,688 - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'system', 'content': 'You are an expert educator creating study questions.'}, {'role': 'user', 'content': "Generate 5-7 diverse, thought-provoking study questions based on this summary: The text describes a Discrete Mathematics exam with various exercises covering topics like the Binomial Theorem, Euclidean algorithm, proof by induction, graph algorithms (Prim's and Kruskal's), set theory, algorithms analysis, and matrix relations. Key points include finding expansions using the Binomial Theorem, solving Euclidean algorithm problems, proving by induction, applying graph algorithms, determining set elements, analyzing algorithms, and understanding matrix relations."}], 'model': 'gpt-3.5-turbo'}}
+2025-04-17 19:31:36,689 - DEBUG - Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2025-04-17 19:31:36,689 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-04-17 19:31:36,690 - DEBUG - send_request_headers.complete
+2025-04-17 19:31:36,690 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-04-17 19:31:36,690 - DEBUG - send_request_body.complete
+2025-04-17 19:31:36,690 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-04-17 19:31:38,385 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 17 Apr 2025 16:31:38 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'tison-aocxyj'), (b'openai-processing-ms', b'1348'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'10000000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'9999842'), (b'x-ratelimit-reset-requests', b'6ms'), (b'x-ratelimit-reset-tokens', b'0s'), (b'x-request-id', b'req_ec29dbf97f45a9a4948e6f5943d88991'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'931d50501cffc6ca-JNB'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-04-17 19:31:38,386 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-17 19:31:38,386 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-04-17 19:31:38,387 - DEBUG - receive_response_body.complete
+2025-04-17 19:31:38,387 - DEBUG - response_closed.started
+2025-04-17 19:31:38,387 - DEBUG - response_closed.complete
+2025-04-17 19:31:38,387 - DEBUG - HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers({'date': 'Thu, 17 Apr 2025 16:31:38 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'access-control-expose-headers': 'X-Request-ID', 'openai-organization': 'tison-aocxyj', 'openai-processing-ms': '1348', 'openai-version': '2020-10-01', 'x-ratelimit-limit-requests': '10000', 'x-ratelimit-limit-tokens': '10000000', 'x-ratelimit-remaining-requests': '9999', 'x-ratelimit-remaining-tokens': '9999842', 'x-ratelimit-reset-requests': '6ms', 'x-ratelimit-reset-tokens': '0s', 'x-request-id': 'req_ec29dbf97f45a9a4948e6f5943d88991', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'cf-cache-status': 'DYNAMIC', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '931d50501cffc6ca-JNB', 'content-encoding': 'gzip', 'alt-svc': 'h3=":443"; ma=86400'})
+2025-04-17 19:31:38,387 - DEBUG - request_id: req_ec29dbf97f45a9a4948e6f5943d88991

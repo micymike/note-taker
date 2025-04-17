@@ -1,0 +1,12 @@
+{
+    "theme": "dark",
+    "font_size": 14,
+    "microphone_index": null,
+    "categories": [
+        "Personal",
+        "Work",
+        "Ideas",
+        "To-Do"
+    ],
+    "language": "en-US"
+}
